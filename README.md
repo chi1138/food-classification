@@ -1,6 +1,4 @@
-# food-recognition
- 
-# Food Recognition Project
+# Food Recognition 
 
 This project focuses on developing a machine learning model for recognizing various types of foods using DenseNet and MobileNet architectures. The project includes training, testing, and fine-tuning deep learning models, along with evaluating their performance using various metrics.
 
